@@ -1,6 +1,17 @@
+# 🛍️ Online Retail Analytics Project
+
+## 📌 Overview
+This project explores a historical dataset of online retail transactions to uncover customer purchasing behavior, sales trends, and high-performing products. Using Python for data cleaning and clustering, and Power BI for dashboarding, we aim to generate actionable insights to support business decision-making.
 
 ---
 
+## 🧰 Tools & Technologies
+- **Python** (Pandas, Seaborn, Scikit-learn)
+- **Visual studio code**
+- **Power BI**
+- **Git & GitHub**
+
+---
 ## 🚀 Project Workflow
 
 ### 🔹 1. Data Cleaning
@@ -35,13 +46,3 @@
 
 ---
 
-## 🧪 How to Run
-
-### 📌 Jupyter Notebook:
-```bash
-# Install dependencies
-pip install pandas matplotlib seaborn scikit-learn
-
-# Open notebook
-jupyter notebook notebooks/online_retail_analysis.ipynb
-# online-retail-analytics-project
